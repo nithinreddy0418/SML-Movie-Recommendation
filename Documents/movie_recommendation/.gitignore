@@ -4,7 +4,5 @@ __pycache__/
 data/*.csv
 data/*.parquet
 data/*.gz
-results/*.png
-results/*.csv
 *.egg-info/
 .DS_Store

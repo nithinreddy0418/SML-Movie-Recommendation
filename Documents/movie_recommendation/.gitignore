@@ -6,3 +6,5 @@ data/*.parquet
 data/*.gz
 *.egg-info/
 .DS_Store
+.venv/
+frontend/node_modules/
